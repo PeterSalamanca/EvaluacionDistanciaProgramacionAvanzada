@@ -1,4 +1,4 @@
-Palabra = "racecar"
+Palabra = "anilina"
 Inversa = Palabra[::-1]
 # Confirma si la palabra al invertir es igual que la palabra original
 
