@@ -17,5 +17,5 @@ def anagrama_2(strg1, strg2):
 print(anagrama_2("saco", "cosa"))  # True
 print(anagrama_2("mora", "ramo"))  # True
 print(anagrama_2("casa", "saca"))  # True
-
+print(anagrama_2("Cazar", "raza"))  # False
 
