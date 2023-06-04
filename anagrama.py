@@ -14,9 +14,9 @@ def anagrama_2(strg1, strg2):
     strg2 = strg2.lower()
     return sorted(strg1) == sorted(strg2)
 
-print(anagrama_2("saco", "cosa"))  # True
-print(anagrama_2("mora", "ramo"))  # True
-print(anagrama_2("casa", "saca"))  # True
+print(anagrama_2("Saco", "cosa"))  # True
+print(anagrama_2("Mora", "ramo"))  # True
+print(anagrama_2("Casa", "saca"))  # True
 print(anagrama_2("Cazar", "raza"))  # False
 
 # Código corregido para analizar una frase y encontrar los anagramas 
